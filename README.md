@@ -1,3 +1,6 @@
+<img src="/baner.png" alt="Paulina Okulska banner" title="Paulina Okulska banner" >
+
+
 ### Hi there, visiors! 👋
 I'm Paulina and I am currenly doing my best to ge to know secrets of C#. I am also passionate about computer graphics :)!
 - 🔭 These days I'm working on ... my mini banking application :credit_card:	
