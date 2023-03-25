@@ -2,7 +2,7 @@
 
 
 ### Hi there, visiors! 👋
-I'm Paulina and I am currenly doing my best to ge to know secrets of C#. I am also passionate about computer graphics :)!
+I'm Paulina and I am currenly doing my best to get to know secrets of C#. I am also passionate about computer graphics :)!
 - 🔭 These days I'm working on ... my mini banking application :credit_card:	
 - 🌱 I’m currently learning ... C# and RavenDB
 - 👯 I’m looking to collaborate on ... React. Node and C#
