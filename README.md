@@ -1,4 +1,4 @@
-<img src="/baner.png" alt="Paulina Okulska banner" title="Paulina Okulska banner" >
+<img src="/banner-no-border.png" alt="Paulina Okulska banner" title="Paulina Okulska banner" >
 
 
 ### Hi there, visiors! 👋
