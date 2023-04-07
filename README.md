@@ -2,7 +2,7 @@
 
 
 ### Hi there, visiors! 👋
-I'm Paulina and I am currenly doing my best to get to know secrets of C#. I am also passionate about computer graphics.
+I'm Paulina and I am currenly doing my best to get to know secrets of JS and C#. I am also passionate about computer graphics.
 - 🔭 These days I'm working on ... my mini banking application :credit_card:	
 - 🌱 I’m currently learning ... C# and RavenDB
 - :open_mouth: Curious about new GPT Chat
@@ -11,4 +11,5 @@ I'm Paulina and I am currenly doing my best to get to know secrets of C#. I am a
 - 💬 Ask me about ... Anything.
 - 📫 How to reach me: ...  My discord: dulinDís#3802 :envelope:	
 - ⚡ Fun fact about me: ... I learn goldsmithing!  :fire:	:sparkler:
+- You can visit me on https://dulindis.github.io/ 
 -->
